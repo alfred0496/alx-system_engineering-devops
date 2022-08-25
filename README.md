@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Alfred Makura on email: alfredmakura6@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->bash c/c -is_flu n.c /#pwd is main.
+-- JC/CD/root #Bin/bash and echo "school"
+
