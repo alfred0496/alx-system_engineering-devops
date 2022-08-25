@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 0×01-git read me
+- 🔭 I’m currently working on ... Git clone read me
 - 🌱 I’m currently learning ...software engineering
 - 👯 I’m looking to collaborate on ...github
 - 🤔 I’m looking for help with ...git
