@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--
-**alfred0496/alfred0496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alfred0496/alx-zero_day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 0×01-git read me
+- 🔭 I’m currently working on ... 0×03-git read me
 - 🌱 I’m currently learning ...software engineering
 - 👯 I’m looking to collaborate on ...github
 - 🤔 I’m looking for help with ...git
